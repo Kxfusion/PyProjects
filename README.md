@@ -13,4 +13,6 @@ PyProject5 - Uses an URL to check whether a text file contains curse words or no
 
 PyProject5.5 - Uses only built-in Python functions to sort user inputted numbers
 
-PyProject6 -
+PyProject6 - Uses a Python class to generate HTML code for a simple movie trailer website
+
+PyProject7 - Is a small demonstration of Python inheritance
